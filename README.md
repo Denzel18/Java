@@ -3,10 +3,6 @@
 ## Introduzione 
 Salve, qui sono raggrupate un po' di nozioni base della programmazione ad oggetti mediante linguaggio Java. Sono codici elementari di Java. Questi codici sono stati realizzati come passatempo in seguito a richieste pervenuti da amici in collaborazioni con loro 
 
-# Code-C-and-CPP
-Codici elementari di C, Ordinamento Vettori ... Struct e Liste.
-Questi codici sono stati realizzati come passatempo in seguito a richieste pervenuti da amici in collaborazioni con loro 
-
 ## Badges
 [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE) 
 

@@ -29,5 +29,4 @@ Potete utilizzare lo strumento messo appunto a disposizione da **GITHUB**
 
 #### Autori e Copyright
 
-- Denis B. - USER ID : denisberno - [denisberno](https://github.com/denisberno) per visionare invece il repository [REPOSITORY](https://github.com/denisberno/Java)
-- Amici  
+- Denis B. 
